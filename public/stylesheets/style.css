@@ -3,13 +3,13 @@ body {
     padding: 0;
     background: linear-gradient(90deg, #000000, #4d4d4d );
     color: white;
-    font-family: 'Courier New', monospace;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 18px;
 }
 
 h1, h2 {
-    font-family: 'Roboto Condensed', sans-serif;    
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 h1 {
