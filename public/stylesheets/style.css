@@ -3,7 +3,7 @@ body {
     padding: 0;
     background: linear-gradient(90deg, #000000, #4d4d4d );
     color: white;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     text-align: center;
     font-size: 18px;
 }
@@ -130,5 +130,5 @@ a {
 }
 
 a:hover {
-    border-bottom: 2px dashed gray;
+    border-bottom: 2px solid white;
 }
